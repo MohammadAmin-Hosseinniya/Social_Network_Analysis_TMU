@@ -1,0 +1,101 @@
+1698760023979	geckodriver	INFO	Listening on 127.0.0.1:8981
+1698760027051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile3ey2R9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698760028121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698760028237	Marionette	INFO	Listening on port 8995
+Read port: 8995
+1698760028493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698760058159	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698760582029	geckodriver	INFO	Listening on 127.0.0.1:9885
+1698760585311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilexHjy9A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698760585944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698760586011	Marionette	INFO	Listening on port 9899
+Read port: 9899
+1698760586226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698760615971	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698760687066	geckodriver	INFO	Listening on 127.0.0.1:10055
+1698760690090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileUAvBMT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698760690567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698760690663	Marionette	INFO	Listening on port 10070
+Read port: 10070
+1698760690917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698760720601	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Tried to call unwatchFronts for the 'accessibility' type on an already destroyed front 'windowGlobalTarget'."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1698761804677	Marionette	INFO	Stopped listening on port 10070
+Dynamically enable window occlusion 1
+a@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:4:1730
+T@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:11817
+_@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:14376
+E@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:14878
+$e</this.$get</<@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:18626
+v@https://ganj.irandoc.ac.ir/assets/application-748b3b1698761344851	Marionette	INFO	Stopped listening on port 10788
+Dynamically enable window occlusion 1
+748b3bdd39d30b52c85777133fc8fcd4.js:9:22525
+k@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:32594
+fn@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:10:927
+n@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:13390
+t@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:9:13317
+Ee</this.$get</</<@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:10:1010
+$digest@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:6:8203
+$apply@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:6:9233
+wo</compile/post/<@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:8:16900
+dispatch@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:2:19452
+add/m.handle@https://ganj.irandoc.ac.ir/assets/application-748b3bdd39d30b52c85777133fc8fcd4.js:2:17436
+
+1698761346101	Marionette	INFO	Stopped listening on port 10493
+Dynamically enable window occlusion 1
+1698761727102	geckodriver	INFO	Listening on 127.0.0.1:11506
+1698761730278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileVwafva"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698761730907	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698761730979	Marionette	INFO	Listening on port 11520
+Read port: 11520
+1698761731190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698761760942	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698765133907	Marionette	INFO	Stopped listening on port 11520
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileDP665H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698761905647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698761905740	Marionette	INFO	Listening on port 11820
+Read port: 11820
+1698761905985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698761935683	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698765135742	Marionette	INFO	Stopped listening on port 11820
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilePwJffQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698762082833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698762082914	Marionette	INFO	Listening on port 12095
+Read port: 12095
+1698762083113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698762112859	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698765136130	Marionette	INFO	Stopped listening on port 12095
+Dynamically enable window occlusion 1

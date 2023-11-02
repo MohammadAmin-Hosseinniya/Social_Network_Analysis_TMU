@@ -19,8 +19,20 @@ driver.get("https://ganj.irandoc.ac.ir/#/search?basicscope=1&keywords=%D8%A7%D9%
 time.sleep(2)
 titles = driver.find_elements(By.CSS_SELECTOR, ".search_title")
 time.sleep(4)
+title_texts = []
+title_tags = []
+# print(titles)
 for title in titles:
-    print(title.text)
+    title_texts.append(title.text)
+    link = title.get_attribute('href')
+    print(link)
+    link.click()
+    # driver.find_element
+    tags = driver.find_elements(By.CLASS_NAME, "btn-group ng-scope")
+    for tag in tags:
+        print(tag.text)
+    driver.back()
+    break
 
 # click on search button
 
